@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ContactImporter</string>
+    <string name="pick_a_file">Pick a file</string>
+    <string name="clear">Clear</string>
+    <string name="ok">OK</string>
+    <string name="invalid_excel">File format is invalid\nPlease select excel file</string>
+    <string name="add_contacts">Add to Contacts</string>
+    <string name="file_">File is ready now, Please press Add to contacts</string>
+    <string name="operation_successful">Contacts Added successfully</string>
+    <string name="contact_access_required">Contacts access required to import new contacts</string>
+
+<!-- Status Enum description-->
+    <string name="done">Done</string>
+    <string name="failed">Failed</string>
+    <string name="exist">Already Exist</string>
+    <string name="invalid_name">Invalid Name</string>
+    <string name="invalid_number">Invalid Number</string>
+
+</resources>
